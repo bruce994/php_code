@@ -1,0 +1,4 @@
+authtype basic 
+authname "Wai Wai Australia" 
+authuserfile d:/www/misc/test/.htpasswd 
+require valid-user 
